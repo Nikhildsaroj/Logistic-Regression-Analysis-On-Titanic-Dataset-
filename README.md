@@ -1,7 +1,3 @@
-# Logistic-Regression-Analysis-On-Titanic-Dataset-
-Certainly! Here's a repository description for your Logistic Regression Analysis project on the Titanic dataset:
-
----
 
 ## Logistic Regression Analysis (On Titanic Dataset)
 
@@ -11,8 +7,8 @@ This repository contains a logistic regression analysis conducted on the Titanic
 ### Key Details:
 - **Dataset:** Titanic dataset with 1000 data points.
 - **Algorithm Used:** Logistic Regression
-- **Training Accuracy:** 0.80
-- **Testing Accuracy:** 0.79
+- **Training Accuracy:** 0.80%
+- **Testing Accuracy:** 0.79%
 
 ### Project Overview:
 The project involves preprocessing the dataset, including handling missing values and feature engineering as necessary. Logistic regression models are trained on a portion of the dataset and evaluated for their predictive performance using the remaining data. The achieved training accuracy of 0.80 and testing accuracy of 0.79 demonstrate the effectiveness of the logistic regression model in predicting survival outcomes for Titanic passengers.
